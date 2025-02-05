@@ -2,6 +2,8 @@
 
 A Deseret Alphabet font representing characters in 8-bit font style.
 
+![](./img/sample.png)
+
 ## Characters
 
 The Deseret alphabet is encoded from U+10400–U+1044F in Unicode.  This font supplies the 40-letter Deseret Alphabet characters at the standard codepoints.
