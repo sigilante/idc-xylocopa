@@ -4,6 +4,12 @@ A Deseret Alphabet font representing characters in 8-bit font style.
 
 ![](./img/sample.png)
 
+## Specimen
+
+![](./img/Xylocopa-Regular.png)
+
+![](./img/Xylocopa-Regular-Text.png)
+
 ## Characters
 
 The Deseret alphabet is encoded from U+10400–U+1044F in Unicode.  This font supplies the 40-letter Deseret Alphabet characters at the standard codepoints.
@@ -93,5 +99,5 @@ The Deseret alphabet is encoded from U+10400–U+1044F in Unicode.  This font su
 
 ## License
 
-ⓒ 2022 N. E. Davis for Illinois Deseret Consortium.  Made available under the SIL Open Font License 1.1.  “IDC Xylocopa” is a reserved font name under this license, but “Xylocopa” is not reserved.
+ⓒ 2023 N. E. Davis for Illinois Deseret Consortium.  Made available under the SIL Open Font License 1.1.  “IDC Xylocopa” is a reserved font name under this license, but “Xylocopa” is not reserved.
 
