@@ -2,8 +2,6 @@
 
 A Deseret Alphabet font representing characters in 8-bit font style.
 
-![](./img/sample.png)
-
 ## Specimen
 
 ![](./img/Xylocopa-Regular.png)
